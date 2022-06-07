@@ -1,17 +1,8 @@
 # Drone:bit Hover Example
 Program the drone:bit to take off, hover for 10 seconds, and land. 
 
-## Video Demonstration
-YouTube Demonstration Link: [https://youtu.be/zqUvSMOW19Q](https://youtu.be/zqUvSMOW19Q)
-
-MD test (as image): 
-[![Hover demonstration](https://img.youtube.com/vi/zqUvSMOW19Q/default.jpg)](https://youtu.be/zqUvSMOW19Q)
-
-HTML test 1: <a href="http://www.youtube.com/watch?feature=player_embedded&v=zqUvSMOW19Q" target="_blank"> <img src="http://img.youtube.com/vi/zqUvSMOW19Q/mqdefault.jpg" alt="Hover demonstration" width="240" height="180" border="10" /> </a>
-
-HTML test 2: <a href="https://youtu.be/zqUvSMOW19Q" title="Hover demonstration"><img src="https://img.youtube.com/vi/zqUvSMOW19Q/hqdefault.jpg" alt="Alternate Text" /></a>
-
-IFRAME test: <iframe width="560" height="315" src="https://www.youtube.com/embed/zqUvSMOW19Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Video Demonstration <!--Video embedded as image wrapped in a link-->
+[![Hover video demonstration](https://img.youtube.com/vi/zqUvSMOW19Q/0.jpg)](https://youtu.be/zqUvSMOW19Q)
 
 ## Edit this project ![Build status badge](https://github.com/Microbit-Education/hover/workflows/MakeCode/badge.svg)
 To edit this repository in MakeCode.
